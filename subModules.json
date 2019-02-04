@@ -35,22 +35,6 @@
   "release": [
     "./hungryGames.js",
     "./main.js",
-    "./ticTacToe.js",
-    "./connect4.js",
-    "./music.js",
-    "./patreon.js",
-    "./tts.js",
-    "./poll.js",
-    "./chatbot.js",
-    "./spotify.js",
-    "./cmdScheduling.js",
-    "./web/webhooks.js",
-    "./web/proxy.js",
-    "./web/account.js",
-    "./web/stats.js",
-    "./web/settings.js",
-    "./uno.js",
-    "./cmdScheduling.js"
   ],
   "rembot": [
     "./main.js",
